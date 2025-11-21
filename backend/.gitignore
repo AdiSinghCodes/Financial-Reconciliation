@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+uploads/
+*.csv
+*.xlsx
+.DS_Store
+*.log
+.pytest_cache/
