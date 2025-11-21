@@ -878,8 +878,7 @@ SOFTWARE.
 **Adi Singh**
 
 - GitHub: [@AdiSinghCodes](https://github.com/AdiSinghCodes)
-- LinkedIn: [Connect with me](https://linkedin.com/in/adisingh)
-- Portfolio: [adisingh.dev](https://adisingh.dev)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/aditya-singh-2b319b299/)
 
 ---
 
